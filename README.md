@@ -1,0 +1,10 @@
+<b>"Rent the Runway" - Its an online forum for renting clothes</b>
+ 
+<b> Background </b> : As millennials embrace renting over owning — even clothes — stores are taking notice. Le Tote, for instance, rents clothing for everyday wear and the Ms. Collection sends users surprise items based on personal style. Typically these start-ups charge a monthly fee and allow users to wear the clothing for a month, or sometimes an unlimited amount of time. Customers return the clothing without paying shipping or dry-cleaning costs.
+Obviously renting clothes isn't for everyone but if you feel like you're spending a lot of money on clothing trying to keep up with your ever-changing schedule, a rental subscription service might be for you. To give you a better idea, here are six times when Rent the Runway's Unlimited membership can save you money on clothing. Through renting instead of buying and by lending instead of discarding, we reduce the millions of tons of textile waste produced each year and extend the life of the garments we use, ultimately reducing our carbon, waste and water footprint.
+
+<b> Problems with the current system </b> : Unfortunately, there is no database that stores information of the customers that can be retrieved in a single forum. By storing the details and records in the membership card and in the database, employees can easily retrieve client's information and the required/ related data can be started without further delay and it is cost effective as well.
+
+<b> General Description </b> : 
+The popular site "Rent the Runway". (If you're not familiar, Rent the Runway allows you to borrow clothes for a fraction of the price rather than buy them.) Needs a stable database management system to keep track of all things happening within the company. They might have some dedicated subscribers and some new members joining every other day, keeping track of the customers has to be confusion free as well as they need the personal information as well to send them some coupon codes on the customer's birthday. Paper receipt and bills plus maintaining excel could be cumbersome and can create confusion if not accurate.
+
